@@ -18,6 +18,15 @@
     border: 2px solid transparent;
     margin: auto;
 }
-.do{
+.design{
     display: none;
-} 
+}
+.development{
+    display: none;
+}
+.product{
+    display: none;
+}
+#contact{
+    background-color: transparent;
+}
