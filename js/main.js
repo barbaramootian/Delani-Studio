@@ -13,17 +13,17 @@ $(document).ready(function() {
 });
 
 $(document).ready(function(){
-    $("#we").click(function(){
-       $(".do").toggle();
+    $("#des").click(function(){
+       $(".design").toggle();
     }) 
 })
 $(document).ready(function(){
     $("#dev").click(function(){
-       $(".do").toggle();
+       $(".development").toggle();
     }) 
 })
 $(document).ready(function(){
     $("#pro").click(function(){
-       $(".do").toggle();
+       $(".product").toggle();
     }) 
 })
