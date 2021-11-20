@@ -1,0 +1,27 @@
+.col-4 p{
+    color:black;
+    position: relative;
+}
+.col-3{
+    position: relative;
+}
+.col-3 img{
+  height: 250px; 
+  width: 250px; 
+}
+.text{
+    height: 250px;
+    width: 250px;
+    /* background-color: rgba(0, 0,0, 0.5); */
+    position: absolute;
+}
+/* .text p{
+    color:transparent;
+    height: 220px;
+    width: 220px;
+    border: 2px solid transparent;
+    margin: auto;
+}
+.do{
+    display: none;
+} */
