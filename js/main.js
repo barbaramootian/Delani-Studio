@@ -17,3 +17,13 @@ $(document).ready(function(){
        $(".do").toggle();
     }) 
 })
+$(document).ready(function(){
+    $("#dev").click(function(){
+       $(".do").toggle();
+    }) 
+})
+$(document).ready(function(){
+    $("#pro").click(function(){
+       $(".do").toggle();
+    }) 
+})
