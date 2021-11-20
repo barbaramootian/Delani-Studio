@@ -13,7 +13,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function(){
-    $("#des").click(function(){
+    $("#desi").click(function(){
        $(".design").toggle();
     }) 
 })
