@@ -12,8 +12,8 @@ $(document).ready(function() {
     );
 });
 
-// $(document).ready(function(){
-//     $("#we").click(function(){
-//        $(".do").toggle();
-//     }) 
-// })
+$(document).ready(function(){
+    $("#we").click(function(){
+       $(".do").toggle();
+    }) 
+})
