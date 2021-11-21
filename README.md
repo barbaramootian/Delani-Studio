@@ -1,10 +1,18 @@
 # Delani Studio
+
 ## Author
 Barbara Reson Mootian
+
 ### Description
 The project is about delani Studio were there are the landing page,about us,services,what we do,portfolio,contact us and the footer section.
 In the what we do section when we toggle the image some text display and on the hover part of portfolio image paragraph display.
 And on the contact  page you can send  message.
+
+### Technology Used
+Html5
+Css3
+jQuery
+Bootstrap5
 
 ### Project setup
 To run the project you only required a strong internet connection because the project is online.
