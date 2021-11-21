@@ -1,3 +1,4 @@
+// Portfolio hover 
 $(document).ready(function() {
     $(".babi").hover(function(){
         $(this).css("border","2px solid white");
@@ -12,6 +13,7 @@ $(document).ready(function() {
     );
 });
 
+// what we do toggle
 $(document).ready(function(){
     $("#desi").click(function(){
        $(".design").toggle();
@@ -27,3 +29,4 @@ $(document).ready(function(){
        $(".product").toggle();
     }) 
 })
+// contact alert message
