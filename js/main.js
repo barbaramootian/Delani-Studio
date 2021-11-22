@@ -1,16 +1,15 @@
 // Portfolio hover 
 $(document).ready(function() {
-    $(".babi").hover(function(){
+    $(".work").mouseenter(function(){
         $(this).css("border","2px solid white");
         $(this).css("color","white");
-        $(".text").css("background-color","rgba(0,0,0,0.5)");
-    },
-       function(){
+        // $(".text").css("background-color","rgba(0,0,0,0.5)");
+    }),
+       $(".work").mouseleave(function(){
         $(this).css("border","none");
         $(this).css("color","transparent");
-        $(".text").css("background-color", "transparent");
-       }
-    );
+        // $(".text").css("background-color", "");
+       });
 });
 
 // what we do toggle
