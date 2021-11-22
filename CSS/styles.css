@@ -33,3 +33,10 @@
 .row1{
     margin-top: 5px;
 }
+
+.form-control{
+    background-color: transparent;
+}
+#center{
+    align-items: center !important;
+}

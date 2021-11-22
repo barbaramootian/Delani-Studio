@@ -28,12 +28,12 @@ $(document).ready(function(){
        $(".product").toggle();
     }) 
 })
-// contact alert message
+// contact page
 function message() {
-var name = document.getElementById("mce-NAME" ).value;
-var email = document.getElementById("mce-EMAIL").value;
-var message = document.getElementById("mce-MMERGE3").value;
-if (email !== "" && name !== "" &&  message !== ""){
-    alert( hae + "" + name  + "Thanks for reaching to us.")
-}
-}
+    var name = document.getElementById("mce-NAME" ).value;
+    var email = document.getElementById("mce-EMAIL").value;
+    var message = document.getElementById("mce-MMERGE3").value;
+    if (email !== "" && name !== "" &&  message !== ""){
+        alert( hae + "" + name  + "Thanks for reaching to us.")
+    }
+    }
