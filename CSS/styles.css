@@ -6,15 +6,15 @@
     position: relative;
 }
 .text{
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
     /* background-color: rgba(0, 0,0, 0.5); */
     position: absolute;
 }
  .text p{
     color:transparent;
-    height: 220px;
-    width: 220px;
+    height: 180px;
+    width: 180px;
     border: 2px solid transparent;
     margin: auto;
 }

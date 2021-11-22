@@ -1,7 +1,7 @@
 // Portfolio hover 
 $(document).ready(function() {
     $(".work").mouseenter(function(){
-        $(this).css("border","2px solid white");
+        $(this).css("border","5px solid white");
         $(this).css("color","white");
         // $(".text").css("background-color","rgba(0,0,0,0.5)");
     }),
