@@ -1,16 +1,20 @@
 // Portfolio hover 
 $(document).ready(function() {
-    $(".work").mouseenter(function(){
-        $(this).css("border","5px solid white");
-        $(this).css("color","white");
-        // $(".text").css("background-color","rgba(0,0,0,0.5)");
-    }),
-       $(".work").mouseleave(function(){
-        $(this).css("border","none");
-        $(this).css("color","transparent");
-        // $(".text").css("background-color", "");
+    $(".card").mouseenter(function(){
+        $(this).css("opacity","0.6");
+        $(".work").show();
+    })
+       $(".card").mouseleave(function(){
+        $(this).css("opacity", "1");
+        $(".work").hide();
+    })
        });
-});
+       
+                            
+                        
+
+
+
 
 // what we do toggle
 $(document).ready(function(){

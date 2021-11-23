@@ -11,8 +11,12 @@
     /* background-color: rgba(0, 0,0, 0.5); */
     position: absolute;
 }
+.card1{
+    width: 50%;
+}
  .text p{
-    color:transparent;
+    color:black;
+    display: none;
     height: 180px;
     width: 180px;
     border: 2px solid transparent;
